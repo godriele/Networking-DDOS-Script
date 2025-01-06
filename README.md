@@ -1,4 +1,5 @@
 # Networking-DDOS-Script
+Credits to NeuralNine
 
 # Overview
 This script demonstrates a basic Distributed Denial of Service (DDoS) attack. It floods a target server with numerous requests, aiming to overload its resources and make it unresponsive to legitimate users.
